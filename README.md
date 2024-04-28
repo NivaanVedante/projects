@@ -1,2 +1,2 @@
-# projects
-this repository contains all my projects  and accomplishments
+# Hello there !
+## My name is Nivaan Vedante
