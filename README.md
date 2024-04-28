@@ -11,7 +11,7 @@ Welcome to my Github page! I am Nivaan and I'm currently completing the IBDP __(
 > - Completing my Trinity Classical Piano Diploma (Grade 8) 🎹
 
 #### :muscle: Things I am challenging myself with:
-> - Learning how to SpeedCube <img align="center" alt="img" src="https://github.com/NivaanVedante/projects/blob/main/rubiks_cube.png" width="2.5%" height="auto" />
+> - Learning how to SpeedCube
 > - Coding at least 4 hours a day 💻
 > - Managing a school band 
 
@@ -25,4 +25,7 @@ Welcome to my Github page! I am Nivaan and I'm currently completing the IBDP __(
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
+
+
+### Badges
 
