@@ -28,4 +28,7 @@ Welcome to my Github page! I am Nivaan and I'm currently completing the IBDP __(
 
 
 ### Badges
+<code><img width="13%" src="https://github.com/NivaanVedante/projects/blob/main/Nivaan_Edx_%26_Coursera_Certificates%20%26%20Badges/Nivaan_Actual_Badge_Sticker_IBM_python-for-data-science-and-ai.png"></code>
+
+<code><img width="13%" src="https://github.com/NivaanVedante/projects/blob/main/Nivaan_Edx_%26_Coursera_Certificates%20%26%20Badges/Nivaan_Actual_Badge_Sticker_IBM_python-for-data-science-and-ai.png"></code>
 
