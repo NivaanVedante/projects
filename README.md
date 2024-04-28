@@ -28,7 +28,8 @@ Welcome to my Github page! I am Nivaan and I'm currently completing the IBDP __(
 
 
 ### Badges
-<code><img width="13%" src="https://github.com/NivaanVedante/projects/blob/main/Nivaan_Edx_%26_Coursera_Certificates%20%26%20Badges/Nivaan_Actual_Badge_Sticker_IBM_python-for-data-science-and-ai.png"></code>
-
-<code><img width="13%" src="https://github.com/NivaanVedante/projects/blob/main/Nivaan_Edx_%26_Coursera_Certificates%20%26%20Badges/Nivaan_Actual_Badge_Sticker_IBM_python-for-data-science-and-ai.png"></code>
+<p>
+<code><img width="13%" src="https://github.com/NivaanVedante/projects/blob/main/Nivaan_Edx_%26_Coursera_Certificates%20%26%20Badges/Nivaan_Actual_Badge_Sticker_IBM_python-for-data-science-and-ai.png" height="auto"></code>
+<code><img width="13%" src="https://github.com/NivaanVedante/projects/blob/main/Nivaan_Edx_%26_Coursera_Certificates%20%26%20Badges/Nivaan_Actual_Badge_Sticker_IBM_computer-vision-and-image-processing-essentials.1.png " height="auto"></code>
+<code><img width="13%" src="https://github.com/NivaanVedante/projects/blob/main/Nivaan_Edx_%26_Coursera_Certificates%20%26%20Badges/Nivaan_Actual_Badge_Sticker_Google_IT_Automation_with_Python.png" height="auto"></code>
 
