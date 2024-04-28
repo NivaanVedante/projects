@@ -1,2 +1,1 @@
-# Hello there !
-## My name is Nivaan Vedante
+## hey ! my name is Nivaan Vedante
