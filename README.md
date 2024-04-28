@@ -11,7 +11,7 @@ Welcome to my Github page! I am Nivaan and I'm currently completing the IBDP __(
 > - Completing my Trinity Classical Piano Diploma (Grade 8)
 
 #### :muscle: Things I am challenging myself with:
-> - Waking up earlier to make good use of the day
+> - Learning how to SpeedCube <img align="right" alt="img" src="https://github.com/NivaanVedante/projects/blob/main/tvglitch.png" width="50%" height="auto" />
 > - Coding at least 4 hours a day
 > - Exercising 3 days a week
 > - Improving my CV with some education apart from university
