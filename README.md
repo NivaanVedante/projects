@@ -6,14 +6,14 @@ Welcome to my Github page! I am Nivaan and I'm currently completing the IBDP __(
 
 
 #### 🎯 Things I am currently working on: 
-> - Finishing my IBDP at CNS, Mumbai, India
-> - Taking online courses about Data Science, Machine Learning & Computer Vision
-> - Completing my Trinity Classical Piano Diploma (Grade 8)
+> - Finishing my IBDP at CNS, Mumbai, India 🏫
+> - Taking online courses about Data Science, Machine Learning & Computer Vision 
+> - Completing my Trinity Classical Piano Diploma (Grade 8) 🎹
 
 #### :muscle: Things I am challenging myself with:
 > - Learning how to SpeedCube <img align="center" alt="img" src="https://github.com/NivaanVedante/projects/blob/main/rubiks_cube.png" width="2.5%" height="auto" />
 > - Coding at least 4 hours a day 💻
-> - Improving my CV with some education apart from university
+> - Managing a school band 
 
 #### :computer: Programming languages and tools: 
 <p>
