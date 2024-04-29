@@ -11,9 +11,9 @@ Welcome to my Github page! I am Nivaan and I'm currently completing the IBDP __(
 > - Completing my Trinity Classical Piano Diploma (Grade 8) 🎹
 
 #### :muscle: Things I am challenging myself with:
-> - Learning how to SpeedCube
+> - Learning how to SpeedCube 
 > - Coding at least 4 hours a day 💻
-> - Managing a school band 
+> - Managing a school band 🥁
 
 #### :computer: Programming languages and tools: 
 <p>
