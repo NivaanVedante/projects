@@ -4,7 +4,6 @@ Welcome to my Github page! I am Nivaan and I'm currently completing the IBDP __(
 
 <img align="right" alt="img" src="https://github.com/NivaanVedante/projects/blob/main/tvglitch.png" width="50%" height="auto" />
 
-
 #### 🎯 Things I am currently working on: 
 > - Completing the __IBDP__ at CNS, Mumbai, India 🏫
 > - Taking __online courses__ about Data Science, Machine Learning & Computer Vision 
