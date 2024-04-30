@@ -6,9 +6,9 @@ Welcome to my Github page! I am Nivaan and I'm currently completing the IBDP __(
 
 
 #### 🎯 Things I am currently working on: 
-> - Finishing my IBDP at CNS, Mumbai, India 🏫
-> - Taking online courses about Data Science, Machine Learning & Computer Vision 
-> - Completing my Trinity Classical Piano Diploma (Grade 8) 🎹
+> - Completing the __IBDP__ at CNS, Mumbai, India 🏫
+> - Taking __online courses__ about Data Science, Machine Learning & Computer Vision 
+> - Completing my Trinity Classical Piano Diploma __(Grade 8)__ 🎹
 
 #### :muscle: Things I am challenging myself with:
 > - Learning how to SpeedCube 
